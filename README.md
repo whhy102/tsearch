@@ -29,4 +29,3 @@ http://localhost:8888/_search?query=中国百度
  }
  
  content 类型转换 string 
- 123
